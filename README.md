@@ -10,3 +10,5 @@ Repositorio correspondiente a la materia Desarrollo de Algoritmos 2020.
 - [TP Nro 6 - Recursion](https://github.com/mateoValdesolo/Des.Alg-2020/tree/main/TP%206%20Recursion)
 - [TP Nro 6 - Recusion Complementarios](https://github.com/mateoValdesolo/Des.Alg-2020/tree/main/TP%206%20Complementarios)
 - [TP Nro 7 - Taxonomia de Algoritmos](https://github.com/mateoValdesolo/Des.Alg-2020/tree/main/TP%207%20Taxonomia%20de%20Algoritmos)
+- [TP Obligatorio 1](https://github.com/mateoValdesolo/Des.Alg-2020/tree/main/TpO1)
+- [TP Obligatorio 2](https://github.com/mateoValdesolo/Des.Alg-2020/tree/main/TpO2)
